@@ -4,6 +4,7 @@ from typing import Dict, List, Tuple
 
 import numpy as np
 import pandas as pd
+pip install plotly
 import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
